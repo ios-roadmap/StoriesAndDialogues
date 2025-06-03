@@ -2,7 +2,7 @@
 
 *A sprawling conversation-driven story about anxiety, resilience, and unwavering friendship.*
 
----
+---  
 
 ## Scene 1 – Back‑stage corridor, thirty minutes before auditions
 **Alex:** *[pacing]* I can’t remember my lines. They sound dreadful, sentimental and—honestly—kind of wooden.  
